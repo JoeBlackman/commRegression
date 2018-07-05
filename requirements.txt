@@ -1,0 +1,2 @@
+openpyxl
+modbus_tk
